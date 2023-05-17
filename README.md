@@ -4,9 +4,9 @@ I put together this workflow using Andrea Donno’s outstanding HA/ESPhome NFC r
 
 BOM:
  
-•	Tag Reader: Build or buy Andrea Donno’s HA/ESPhome NFC reader https://github.com/adonno/tagreader
+-	Tag Reader: Build or buy Andrea Donno’s HA/ESPhome NFC reader https://github.com/adonno/tagreader
+-	NFS stickers: I bought these on Amazon “THONSEN 30pcs NFC Tags Stickers” (B07MKWHYQK)
 
-•	NFS stickers: I bought these on Amazon “THONSEN 30pcs NFC Tags Stickers” (B07MKWHYQK)
 
 Guide:
   1)	Add your sticker to HA by swiping it on the reader and going to Settings – Tags
