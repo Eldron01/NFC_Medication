@@ -9,6 +9,7 @@ BOM:
 
 
 Guide:
-  1)  Add your sticker to HA by swiping it on the reader and going to Settings – Tags
+- Add your sticker to HA by swiping it on the reader and going to Settings – Tags
   2)	I suggest renaming the tag to something meaningful
-  3)	Create an input Boolean helper to toggle. Settings – Devices & Services – Helpers
+  3)	Create an input Boolean helper to toggle.
+    Settings – Devices & Services – Helpers
