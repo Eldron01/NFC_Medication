@@ -9,7 +9,13 @@ BOM:
 
 
 Guide:
-- Add your sticker to HA by swiping it on the reader and going to Settings – Tags
-  2)	I suggest renaming the tag to something meaningful
-  3)	Create an input Boolean helper to toggle.
-    Settings – Devices & Services – Helpers
+1) Add your sticker to HA by swiping it on the reader and going to Settings –> Tags
+2) I suggest renaming the tag to something meaningful
+3) Create an input Boolean helper to toggle
+   - Settings –> Devices & Services –> Helpers
+   - Create Helper -> Toggle
+   - Give it a meaningful name
+
+In Node-Red:
+1) Add a Tag Node
+2) Add a Call Service Node and connect the two
