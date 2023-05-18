@@ -1,11 +1,11 @@
-
+# Medication Tracker
 
 I have some family friends with memory issues who take daily medicines. This makes it difficult for them to recall if they have taken their medication or not. The system I put together helps the individual taking the medication and can be used to let other people know if they have taken their medication.
 
 I put together this workflow using Andrea Donno’s outstanding HA/ESPhome NFC reader, some NFC tag stickers and Node-Red. 
 
 ![NFC1](/pics/NFC1.jpg)
-
+## BOM
 BOM:
  
 -	Tag Reader: Build or buy Andrea Donno’s HA/ESPhome NFC reader. Build: https://github.com/adonno/tagreader Buy: https://adonno-crafts.myshopify.com/
