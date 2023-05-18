@@ -11,7 +11,7 @@ BOM:
 -	Tag Reader: Build or buy Andrea Donno’s HA/ESPhome NFC reader. Build: https://github.com/adonno/tagreader Buy: https://adonno-crafts.myshopify.com/
 -	NFS stickers: I bought these on Amazon “THONSEN 30pcs NFC Tags Stickers” (B07MKWHYQK)
 
-### Guide
+## Guide
 Guide:
 1) Add your sticker to HA by swiping it on the reader and going to Settings –> Tags
 2) I suggest renaming the tag to something meaningful
