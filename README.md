@@ -25,3 +25,7 @@ In Node-Red:
 5) Add an Inject node and set the time to when you want to recieve a notification if the medication is not taken. I use 30min after.
 6) Add a Current State node and connect it to the Inject node you just created. Set the node to check your Input Boolean status is off or on. On means they swiped and off means they did not.
 7) Add a Call Service node and connect it to the Crurrent State node you just created. Set your notification of choice. I use an IOS push notification.
+
+STLs:
+
+I modified the STLs that Andrea created to allow more room for wires and a larger speaker. I used these speakers: "uxcell 9mmx5.5mm" (B018I1WBNQ).
