@@ -28,4 +28,4 @@ In Node-Red:
 
 STLs:
 
-I modified the STLs that Andrea created to allow more room for wires and a larger speaker. I used these speakers: "uxcell 9mmx5.5mm" (B018I1WBNQ).
+I modified the STLs that Andrea created to allow more room for wires and a larger buzzer. I used these buzzers: "uxcell 9mmx5.5mm" (B018I1WBNQ).
