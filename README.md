@@ -30,6 +30,8 @@ In Node-Red:
 6) Add a Current State node and connect it to the Inject node you just created. Set the node to check your Input Boolean status is off or on. On means they swiped and off means they did not.
 7) Add a Call Service node and connect it to the Crurrent State node you just created. Set your notification of choice. I use an IOS push notification.
 
+![NFC1](/Node-Red/NR_1.PNG)
+
 STLs:
 
 I modified the STLs that Andrea created to allow more room for wires and a larger buzzer. I used these buzzers: "uxcell 9mmx5.5mm" (B018I1WBNQ).
