@@ -4,7 +4,7 @@ I put together this workflow using Andrea Donno’s outstanding HA/ESPhome NFC r
 
 BOM:
  
--	Tag Reader: Build or buy Andrea Donno’s HA/ESPhome NFC reader https://github.com/adonno/tagreader
+-	Tag Reader: Build or buy Andrea Donno’s HA/ESPhome NFC reader. Build: https://github.com/adonno/tagreader Buy: https://adonno-crafts.myshopify.com/
 -	NFS stickers: I bought these on Amazon “THONSEN 30pcs NFC Tags Stickers” (B07MKWHYQK)
 
 
