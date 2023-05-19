@@ -35,3 +35,6 @@ In Node-Red:
 STLs:
 
 I modified the STLs that Andrea created to allow more room for wires and a larger buzzer. I used these buzzers: "uxcell 9mmx5.5mm" (B018I1WBNQ).
+
+## Additonal Ideas
+The Node-Red flow could also be modified to turn a light on or off as a visual indication of the medication status. You could also attached it to a matrix display that could read out the status and give a countdown timer. There are a lot of ways HA can be used to help someone.
